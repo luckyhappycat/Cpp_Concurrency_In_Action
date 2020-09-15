@@ -1,4 +1,7 @@
 #include <thread>
+#include <iostream>
+
+unsing namespace std;
 
 void do_something(int& i) {
     ++i;
