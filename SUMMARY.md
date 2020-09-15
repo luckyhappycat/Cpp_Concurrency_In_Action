@@ -17,7 +17,7 @@
 	* [2.5 标识线程](content/chapter2-线程管理/2.5-标识线程.md)
 	* [2.6 本章总结](content/chapter2-线程管理/2.6-本章总结.md)
 * [第3章 线程间共享数据](content/chapter3/3.0-线程间共享数据.md)
-	* [3.1 共享数据带来的问题](content/chapter3/3.1-chinese.md)
+	* [3.1 共享数据带来的问题](content/chapter3/3.1-共享数据带来的问题.md)
 	* [3.2 使用互斥量保护共享数据](content/chapter3/3.2-chinese.md)
 	* [3.3 保护共享数据的替代设施](content/chapter3/3.3-chinese.md)
 	* [3.4 本章总结](content/chapter3/3.4-chinese.md)
