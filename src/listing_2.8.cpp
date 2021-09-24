@@ -58,6 +58,7 @@ T parallel_accumulate(Iterator first,Iterator last,T init)
 int main()
 {
     std::vector<int> vi;
+    std::cout<<"std::thread::hardware_concurrency()"<<std::thread::hardware_concurrency()<<std::endl;
     for(int i=0;i<10;++i)
     {
         vi.push_back(10);
