@@ -1,7 +1,7 @@
 #include <thread>
 #include <iostream>
 void do_something(int& i) {
-    std::cout<<"\thello"<<std::endl;
+    // std::cout<<"\thello"<<std::endl;
   ++i;
 }
 
